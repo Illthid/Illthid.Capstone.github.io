@@ -1,2 +1,2 @@
-# Illthid.Capstone.github.io
+# Illthid.github.io
 webtest
