@@ -62,7 +62,7 @@ include ('header.php');
           <div class="card-body">
             <h5 class="card-title">Emerald City</h5>
             <p class="card-text">Emerald City comes in 6x8, 8x10, 12x16,and 16x20.</p>
-            <a class="btn btn-primary" href="Shop.html">Buy</a>
+            <a class="btn btn-primary" href="Shop.php">Buy</a>
           </div>
         </div>
       </div>
@@ -72,7 +72,7 @@ include ('header.php');
           <div class="card-body">
             <h5 class="card-title">Market Clock</h5>
             <p class="card-text">Market Clock comes in 6x6, 8x8, 12x12, and 16x16.</p>
-            <a class="btn btn-primary" href="Shop.html">Buy</a>
+            <a class="btn btn-primary" href="Shop.php">Buy</a>
           </div>
         </div>
       </div>
@@ -82,7 +82,7 @@ include ('header.php');
           <div class="card-body">
             <h5 class="card-title">Rainier</h5>
             <p class="card-text"> Rainier comes in 6x8, 8x10, 12x16,and 16x20.</p>
-            <a class="btn btn-primary" href="Shop.html">Buy</a>
+            <a class="btn btn-primary" href="Shop.php">Buy</a>
           </div>
         </div>
       </div>

@@ -4,8 +4,8 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?php echo $page_title; ?></title>
-    <meta name="description" content="<?php echo $pgDesc ?>"></meta>
-    <meta name="keywords" content="<?php echo $keyWords ?>"></meta>
+    <meta name="description" content="<?php echo $pgDesc ?>">
+    <meta name="keywords" content="<?php echo $keyWords ?>">
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <!-- Bootstrap JS Bundle with Popper -->
@@ -42,15 +42,16 @@
             <a class="navbar-brand" href="index.php">Arbor & Hue</a>
             <button type="button" class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
               <span class="navbar-toggler-icon"></span>
-          </button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
+            </button>
+            <div class="collapse navbar-collapse" id="navbarCollapse">
               <div class="navbar-nav">
                   <a href="index.php" class="nav-item nav-link active">Home</a>
                   <a href="Shop.php" class="nav-item nav-link">Shop</a>
                   <a href="aboutus.php" class="nav-item nav-link">About</a>
                   <a href="Contact.php" class="nav-item nav-link">Contact Us</a>
+              </div>
+            </div>
           </div>
-      </div>
-  </nav>
+      </nav>
         <!-- End Navbar -->
     </header>
